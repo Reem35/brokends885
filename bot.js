@@ -30,7 +30,7 @@ message.guild.members.forEach(m => {
  
 });
 lient.on("message", msg => {//By DEL.25♥♥#1406 || هاشم || Alpha Codes || All copyrights for me & Alpha Codes.
-var prefix = '-';// البرفكس
+var prefix = '.';// البرفكس
 var m = msg.guild.name
 var d = msg.guild.memberCount
 var p = msg.guild.roles.size
@@ -70,7 +70,7 @@ var embed = new Discord.RichEmbed()
 msg.channel.sendEmbed(embed);
 }
 });//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.                                                   lient.on('message', msg => {//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
-   if(msg.content === "-السعودية") {
+   if(msg.content === ".السعودية") {
 var embed20 = new Discord.RichEmbed()
 .setTitle("🇸🇦 🕌 الاذان في السعودية 🕌 🇸🇦")
 .setImage("https://cdn.discordapp.com/attachments/499383925924429837/502484545556316174/unknown.png")
@@ -81,7 +81,7 @@ msg.channel.sendEmbed(embed20).then(SA => {
  });//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
  
 client.on('message', msg => {//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
-   if(msg.content === "-مصر") {
+   if(msg.content === ".مصر") {
 var embed20 = new Discord.RichEmbed()
 .setTitle("🇪🇬 🕌 الاذان في مصر 🕌 🇪🇬")
 .setImage("https://cdn.discordapp.com/attachments/501948394286350356/502486345537683456/unknown.png")
@@ -93,7 +93,7 @@ M.react('🇪🇬').then(() => M.react('🇪🇬'))
  
  
 client.on('message', msg => {//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
-   if(msg.content === "-العراق") {
+   if(msg.content === ".العراق") {
 var embed20 = new Discord.RichEmbed()
 .setTitle("🇮🇶 🕌 الاذان في العراق 🕌 🇮🇶")
 .setImage("https://cdn.discordapp.com/attachments/499383925924429837/502494601525985280/unknown.png")
@@ -104,7 +104,7 @@ I.react('🇮🇶').then(() => I.react('🇮🇶'))
  });//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
  
 client.on('message', msg => {//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
-   if(msg.content === "-المغرب") {
+   if(msg.content === ".المغرب") {
 var embed20 = new Discord.RichEmbed()
 .setTitle("🇲🇦 🕌 الاذان في المغرب 🕌🇲🇦 ")
 .setImage("https://cdn.discordapp.com/attachments/499383925924429837/502494027375968266/unknown.png")
@@ -115,7 +115,7 @@ A.react('🇲🇦').then(() => A.react('🇲🇦'))
  });//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
  
 client.on('message', msg => {//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
-   if(msg.content === "-الجزائر") {
+   if(msg.content === ".الجزائر") {
 var embed20 = new Discord.RichEmbed()
 .setTitle("🇩🇿 🕌 الاذان في الجزائر 🕌 🇩🇿")
 .setImage("https://cdn.discordapp.com/attachments/502487711249203240/503300078295973900/unknown.png")
@@ -126,7 +126,7 @@ D.react('🇩🇿').then(() => D.react('🇩🇿'))
  });//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
  
 client.on('message', msg => {//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
-   if(msg.content === "-سوريا") {
+   if(msg.content === ".سوريا") {
 var embed20 = new Discord.RichEmbed()
 .setTitle("🇸🇾 🕌 الاذان في سوريا 🕌 🇸🇾")
 .setImage("https://cdn.discordapp.com/attachments/499383925924429837/502495763549388800/unknown.png")
@@ -137,7 +137,7 @@ S.react('🇸🇾').then(() => S.react('🇸🇾'))
  });//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
  
 client.on('message', msg => {//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
-   if(msg.content === "-الأردن") {
+   if(msg.content === ".الأردن") {
 var embed20 = new Discord.RichEmbed()
 .setTitle("🇯🇴 🕌 الاذان في الأردن 🕌 🇯🇴")
 .setImage("https://cdn.discordapp.com/attachments/499383925924429837/502496095570624533/unknown.png")
@@ -159,7 +159,7 @@ T.react('🇹🇳').then(() => T.react('🇹🇳'))
  });//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
  
 client.on('message', msg => {//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
-   if(msg.content === "-فلسطين") {
+   if(msg.content === ".فلسطين") {
 var embed20 = new Discord.RichEmbed()
 .setTitle("🇵🇸 🕌 الاذان في فلسطين 🕌 🇵🇸")
 .setImage("https://cdn.discordapp.com/attachments/499383925924429837/502496873073082394/unknown.png")
@@ -170,7 +170,7 @@ P.react('🇵🇸').then(() => P.react('🇵🇸'))
  });//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
  
 client.on('message', msg => {//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.
-   if(msg.content === "-قطر") {
+   if(msg.content === ".قطر") {
 var embed20 = new Discord.RichEmbed()
 .setTitle("🇶🇦 🕌 الاذان في قطر 🕌 🇶🇦")
 .setImage("https://cdn.discordapp.com/attachments/499383925924429837/502497346207219742/unknown.png")
@@ -191,5 +191,39 @@ B.react('🇧🇭').then(() => B.react('🇧🇭'))
    }
                                                
                                    
- });//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.         
+ });//حقوق الفا كودز || هاشم ♥ || Alpha Codes || All copyrights for me & Alpha Codes.                                                        const developers = ["ايدي حقك","",""]
+const adminprefix = ".";
+client.on('message', message => {
+    var argresult = message.content.split(` `).slice(1).join(' ');
+      if (!developers.includes(message.author.id)) return;
+      
+  if (message.content.startsWith(adminprefix + 'ply')) {
+    client.user.setGame(argresult);
+      message.channel.send(`**Now Playig   ${argresult}**`)
+  } else 
+     if (message.content === (adminprefix + "leaveserver")) {
+    message.guild.leave();        
+  } else  
+  if (message.content.startsWith(adminprefix + 'wat')) {
+  client.user.setActivity(argresult, {type:'WATCHING'});
+      message.channel.send(`**Now Watching   ${argresult}**`)
+  } else 
+  if (message.content.startsWith(adminprefix + 'lis')) {
+  client.user.setActivity(argresult , {type:'LISTENING'});
+      message.channel.send(`**Now Listening   ${argresult}**`)
+  } else 
+  if (message.content.startsWith(adminprefix + 'stream')) {
+    client.user.setGame(argresult, "https://www.twitch.tv/idk");
+      message.channel.send(`**Now Streaming   ${argresult}**`)
+  }
+  if (message.content.startsWith(adminprefix + 'setname')) {
+  client.user.setUsername(argresult).then
+      message.channel.send(`Changing The Name To ..**${argresult}** `)
+} else
+if (message.content.startsWith(adminprefix + 'setavatar')) {
+  client.user.setAvatar(argresult);
+    message.channel.send(`Changing The Avatar To :**${argresult}** `);
+}
+});
+
 client.login(process.env.BOT_TOKEN);
